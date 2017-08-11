@@ -4,7 +4,7 @@ permalink:      /:title
 # Setup
 title:          The Penn Treaty Elm
 paginate:       10
-baseurl:        ""
+baseurl:        "/penn-treaty-elm"
 url:            "https://chesterhow.github.io/tale"
 
 # Assets
