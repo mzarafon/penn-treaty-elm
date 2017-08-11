@@ -5,7 +5,7 @@ permalink:      /:title
 title:          The Penn Treaty Elm
 paginate:       10
 baseurl:        "/penn-treaty-elm"
-url:            "https://chesterhow.github.io/tale"
+url:            "https://mzarafon.github.io/penn-treaty-elm"
 
 # Assets
 sass:
@@ -24,7 +24,7 @@ author:
 # Custom vars
 version:        3.4.1
 github:
-  repo:         https://github.com/chesterhow/tale
+  repo:         https://github.com/mzarafon/penn-treaty-elm
 
 # Gems
 plugins:
