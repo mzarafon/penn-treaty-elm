@@ -1,9 +1,9 @@
 # Permalinks
-permalink:      /:year-:month-:day/:title
+permalink:      /:title
 
 # Setup
-title:          Tale
-paginate:       5
+title:          The Penn Treaty Elm
+paginate:       10
 baseurl:        ""
 url:            "https://chesterhow.github.io/tale"
 
@@ -27,5 +27,5 @@ github:
   repo:         https://github.com/chesterhow/tale
 
 # Gems
-gems:
+plugins:
   - jekyll-paginate
