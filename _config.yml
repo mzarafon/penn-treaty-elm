@@ -17,9 +17,8 @@ markdown:       kramdown
 
 # About
 author:
-  name:         Chester How
-  url:          http://chester.how
-  email:        chesterhow@gmail.com
+  name:         Haverford College Libraries
+  url:          http://library.haverford.edu
 
 # Custom vars
 version:        3.4.1
