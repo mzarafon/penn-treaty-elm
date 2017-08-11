@@ -4,7 +4,7 @@ permalink:      /:year-:month-:day/:title
 # Setup
 title:          Tale
 paginate:       5
-baseurl:        "/penn-treaty-elm"
+baseurl:        "/penn-treaty-elm/"
 url:            "https://chesterhow.github.io/tale"
 
 # Assets
