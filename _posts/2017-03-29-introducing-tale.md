@@ -1,12 +1,14 @@
 ---
 layout: post
-title:  "Introducing Tale"
-author: "Chester"
+title: Introducing Tale
+author: Chester
+published: true
 ---
 
 Tale is minimal [Jekyll](https://jekyllrb.com/) theme curated for storytellers. It is designed and developed by [myself](https://github.com/chesterhow/) for a friend who writes short stories.
 
-## Tale features
+## Tale features![Screen Shot 2017-08-15 at 8.02.11 AM.png]({{site.baseurl}}/_posts/Screen Shot 2017-08-15 at 8.02.11 AM.png)
+
 - Compatible with GitHub Pages
 - Responsive design (looks just as good on mobile)
 - Syntax highlighting, with the help of Pygments
