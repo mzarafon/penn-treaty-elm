@@ -8,6 +8,8 @@
 
 -Mike Zarafonetis
 
+-Taylor Cross
+
 -Other Students
 
 ## Sources
