@@ -46,4 +46,10 @@ While this peace and friendship is what is most commonly remembered in American 
 
 **Articles**
 
-1. Abrams, Ann Uhry. "Benjamin West's Documentation of Colonial History: William Penn's Treaty with The Indians.” *The Art Bulletin* 64.1 (1982): 59. Web. 
+1. Abrams, Ann Uhry. "Benjamin West's Documentation of Colonial History: William Penn's Treaty with The Indians.” *The Art Bulletin* 64.1 (1982): 59. Web.
+
+**Other**
+
+1. “Penn’s Treaty.” *Casket* (1826-1830) 04 1827: 141. *ProQuest*. Web. 19 Apr. 2017.
+
+2. Pennsylvania. Lieutenant Governor (1763-1771 : Penn). "By the Honourable John Penn, Esq; Lieutenant-governor and Commander in Chief of the Province of Pennsylvania, and Counties of New-Castle, Kent and Sussex, on Delaware, a Proclamation." Letter. 2 Jan. 1764. Pennsylvania. Lieutenant Governor (1763-1771 : Penn). Philadelphia : Printed by B. Franklin, and D. Hall.,, n.d. Web. 19 Apr. 2017. <https://catalog.tricolib.brynmawr.edu/find/Record/.b3073811/Description#tabnav>.
