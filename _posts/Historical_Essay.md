@@ -19,4 +19,22 @@ Contrary to the idealized representations of him as a religious leader and peace
 <ins> Artifacts </ins>
 
 *William Penn: Quaker Hero*
+
 One problem with William Penn’s legend as benevolent politician and settler is that it has given primacy to his role in shaping Quaker-Lenape relations. His foregrounding in historical narratives has portrayed the Lenni-Lenape as passive in the negotiations of the Penn Treaty. William Penn’s legend, and therefore his history, is thus located in front of the history of the Lenni-Lenape. This is visually represented by the illustration on the book’s cover. In the story, the name “Lenape” is never used. 
+
+*Quaker Oats Can*
+
+Quaker Oats has capitalized on people’s perception of Penn as the ideal “quaker man” in order to sell their product. A Quaker Oats magazine from 1909 describes Penn as “the standard bearer of  the Quakers and Quaker Oats...to this day [they [can] look that honest Quaker, William Penn in the eye and say [they] have never sent a false, a misrepresented, a stale or a moldy package from [their] door”. In placing Penn on every Quaker Oats product, the company emphasizes the honest and quintessentially “Quaker” aspects of William Penn, placing his legacy at the forefront of Pennsylvania history. 
+
+*Penn’s Description of the Lenni-Lenape*
+
+Upon first glance, it appears as though Penn’s account of the Lenni-Lenape expresses nothing but sincere praise. However, upon further analysis we see that Penn’s description of the Lenape is more of an attempt to placate Europeans’ fear of Native Americans. His descriptions are oversimplified, emphasizing that the people are simply “the most merry creatures that live, feast, and dance perpetually”. He similarly describes their features as different from the “thick lip and flat nose, [which is] so frequent with the East-Indians and Blacks…[instead he sees]... European faces among them”. His description reads more as a reassurance than a sincere account. 
+
+*Print of “Penn’s Treaty with the Indians” by Benjamin West*
+
+This is the most traditional portrayal of William Penn and his interactions with the Lenape. According to *The History of Penn Treaty Park*, West’s painting was the world’s introduction to William Penn, the Penn Treaty, and the traditional narrative of the founding of Pennsylvania and Philadelphia. Penn is the subject of the painting, as indicated by his body language and the position of other people in the scene. The Lenape are standing behind Penn, and chief Tamanend is partially blocked from view by other Lenape. The Lenape are also not named in the painting’s title.
+
+*Photos of Haozous’ statue, Penn Treaty Park*
+
+There is no better visual metaphor for Penn’s overshadowing of native history than the placement of statues in Penn Treaty Park. At the entrance to the park exists a statue of William Penn majestically holding the Penn Treaty. On an island defined by Delaware Ave and Beach St exists Bob Haozous’ statue commemorating the Lenape wampum belt. The physical separation of this monument from the park is a perfect visual metaphor for both the removal of the Lenape from the original narrative of the Penn Treaty and the Lenape’s forced westward migration.
+
