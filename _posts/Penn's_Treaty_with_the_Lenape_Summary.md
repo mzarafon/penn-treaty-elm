@@ -14,7 +14,7 @@ Some scholars question the factuality of the treaty, as the legend grew largely 
 
 While this peace and friendship is what is most commonly remembered in American history, the brief era of goodwill actually ended within a generation. Known as the Walking Purchase of 1737, William Penn’s sons John and Thomas and land agent James Logan claimed to have a sale deed from 1686 for the land north of Wrightstown that a man could walk in a day and a half. Apart from the suspected forgery of the deed, the Penns and Logan also hired three trained men to run a path cleared by settlers. One man ran sixty-five miles, giving a total of 1,200 square miles, far more than the Lenape agreed to. The treaty of goodwill stood at almost 50 years before the pattern of European displacement of Natives continued. The Lenape migrated further and further west for over a hundred years, the majority eventually settling in Oklahoma. Today about 20,000 Lenape live in Oklahoma, with smaller numbers of Lenape people in southern Ontario, Wisconsin, and Delaware. 
 
-**Bibliography**
+<p align = "center"><b>Bibliography</b></p>
 
 **Web**
 
@@ -54,7 +54,7 @@ While this peace and friendship is what is most commonly remembered in American 
 
 2. Pennsylvania. Lieutenant Governor (1763-1771 : Penn). "By the Honourable John Penn, Esq; Lieutenant-governor and Commander in Chief of the Province of Pennsylvania, and Counties of New-Castle, Kent and Sussex, on Delaware, a Proclamation." Letter. 2 Jan. 1764. Pennsylvania. Lieutenant Governor (1763-1771 : Penn). Philadelphia : Printed by B. Franklin, and D. Hall.,, n.d. Web. 19 Apr. 2017. <https://catalog.tricolib.brynmawr.edu/find/Record/.b3073811/Description#tabnav>.
 
-**Objects**
+<p align = "center"><b>Objects</b></p>
 
 - Wampum Belt
 
