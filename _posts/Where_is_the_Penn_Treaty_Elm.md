@@ -24,7 +24,7 @@ The Penn Treaty Elm fell during a storm on March 5th, 1810. People rushed to gat
 
 With no actual record of the treaty taking place, the obsession of the tree and disagreement about its location have lead to its notoriety. This is because in many ways, the Penn Treaty Elm has become the closest thing to a history record. The tree not only stands in place for the treaty as its only witness, but is also a testament to the treaty and everything it represents in terms of peace, brotherhood, and Quaker values.
 
-<ins><b>Bibliography (Penn Treaty Elm)</ins></b>
+<p align = "center"><ins><b>Bibliography (Penn Treaty Elm)</ins></b></p>
 
 "Reuniting Two Treaty Elm Vases." *Winterthur Museum & Library Blog*. N.p., 23 Aug. 2016. Web. 28 Apr. 2017.
 
@@ -45,3 +45,27 @@ With no actual record of the treaty taking place, the obsession of the tree and 
  *Penn Treaty Museum*. N.p., n.d. Web. 28 Apr. 2017. <http://www.penntreatymuseum.org/treaty.php>.
  
  "Reuniting Two Treaty Elm Vases." *Winterthur Museum & Library Blog*. N.p., 23 Aug. 2016. Web. 28 Apr. 2017.
+ 
+ <p align = "center"><ins>Artifacts</ins></p>
+ 
+ **Treaty Elm Vases**
+ 
+These two treaty elm vases were carved by George Magraph out of what’s said to be wood from the Treaty Elm. The vases both have a carving of William Penn, modeled after a popular likeness circulated by Sylvanus Bevan, and an explanatory text stating the elm’s significance as the location of “Penn’s treaty with the Indians.” They were both carved in the 1810s, shortly after the elm had fallen. The vases demonstrate both the importance of the elm and its perception as a symbol of William Penn’s mission of peace.
+ 
+ **Bust of William Penn by James Leconey**
+ 
+This bust of William Penn, carved by James Leconey in 1812 out of a branch of the treaty elm, shows the significance of the elm not only in the artifact itself, but in the story of how it was made. A shipbuilder, Isaac Eyre, whose business was adjacent to the Treaty Elm, obtained a piece of the elm and brought it to a ship carver, James Leconey, to carve into a bust. Instead of payment, Leconey took a piece of the branch for his work. This conveys that the tree meant enough to people that it could be substituted as a form of payment.
+
+**Log in the Haverford College Library in Special Collections**
+
+The log in the Haverford Special Collections Library is most likely not part of the actual Treaty Elm or an elm at all, but the fact that someone made the claim that it was, shows significance. The almost mythical nature of the elm and the various items, some authentic and some not, are just as important as the physical elm. Because so much of the story surrounding the treaty is unconfirmed, including the elm’s original location, the unconfirmed piece of the elm serves as a symbol of that unconfirmed, questionable, and mythological history.
+
+**The Treaty Elm Chair: The seat of Pennsylvania history**
+
+This chair is constructed from the Treaty Elm and is called the “Treaty Elm Chair”. The chair has a paper image applied to the center of the top rail depicting Penn’s treaty with the Lenape people. The chair shows the larger than life symbolism of the tree after its death. The elm became synonymous with the treaty and many of the objects carved from its branches are depictions of or related to the treaty, such as the depiction of the treaty on this chair.
+
+**Native American depiction of the elm**
+
+As hard as we looked, we could not find any representations of the Penn Treaty Elm by the Lenape Native Americans. While this may be due to the more oral nature of Lenape history, it seems that while there are abundant depictions of the elm by Pennsylvanian settlers, there are not any by the Lenape. This represents who the Penn Treaty Elm is important to and who it is not important to. Taking into account the history of William Penn’s son commissioning West to paint the scene of the Penn Treaty, it is easy to understand why the focus over the tree and the treaty as opposed to what happened after with the walking purchase and the pushing of the Lenape out of their lands shows which part of history people are willing to engage with. With a discomfort of the destructive history of Native peoples in America, a focus on the original treaty that expresses peace and paints Penn and the settlers in a good light makes sense. It also is logical that Native peoples would be less interested in a tree and more so in preserving their culture, dealing with trauma and rebuilding destroyed communities. 
+
+
