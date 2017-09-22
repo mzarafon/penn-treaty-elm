@@ -4,11 +4,11 @@ title: "Where is the Penn Treaty Elm?"
 author: "Rebecca Fisher, Kahlil Garnes, and Ariel Censor"
 ---
 
-<ins>Summary Statement</ins>
+<p align = "center"><ins>Summary Statement</ins></p>
 
 Starting with the historical understanding of where the Penn Treaty Elm is said to have been then moving to later depictions of the tree and its folklore, and finishing where the pieces of the original Penn Treaty Elm ended up, this essay will trace the tangible and intangible presence of the tree throughout history.
 
-<ins>Historical Essay</ins>
+<p align = "center"><ins>Historical Essay</ins></p>
 
 The Penn Treaty took place in 1683 on the banks of Shackamaxon, the areas now made up of the Philadelphia neighborhoods along the Delaware River of Fishtown, Kensington, and Fort Richmond. Shackamaxon was a historical meeting place for the Lenni- Lenape Indians. The modern Penn Treaty Park is located at this historic meeting place.
 
