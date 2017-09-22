@@ -38,3 +38,27 @@ This is the most traditional portrayal of William Penn and his interactions with
 
 There is no better visual metaphor for Penn’s overshadowing of native history than the placement of statues in Penn Treaty Park. At the entrance to the park exists a statue of William Penn majestically holding the Penn Treaty. On an island defined by Delaware Ave and Beach St exists Bob Haozous’ statue commemorating the Lenape wampum belt. The physical separation of this monument from the park is a perfect visual metaphor for both the removal of the Lenape from the original narrative of the Penn Treaty and the Lenape’s forced westward migration.
 
+<p align = "center"><b>Bibliography</b></p>
+
+Abrams, Ann Uhry. “Benjamin West’s Documentation of Colonial History: William Penn’s Treaty with the Indians.” *The Art Bulletin* 64, no. 1 (1982): 59–75. doi:10.2307/3050194.
+
+Chandler, Charles Lyon. "William penn as a business man." *Journal of the Franklin Institute* 215, no. 4 (1933): 445-54.
+
+Drake, Thomas E. “William Penn’s Experiment in Race Relations,” in *The Pennsylvania Magazine of History and Biography*. N.P.: 1944.
+
+Dolson, Hildegarde. William Penn, Quaker hero. New York: Random House, 1961.
+
+Jennings, Francis. "The Scandalous Indian Policy of William Penn's Sons: Deeds and Documents of the Walking Purchase." Pennsylvania History: A Journal of Mid-Atlantic Studies 37, no. 1 (January 1970): 19-39.
+
+Kraft, Herbert C. *The Lenape: Archaeology, History, and Ethnography*. Collections of the New Jersey Historical Society, v. 21. Newark: New Jersey Historical Society, 1986.
+
+Maples, Mary. “William Penn, Classical Republican.” *The Pennsylvania Magazine of History and Biography* 81, no. 2 (1957): 138–56.
+
+Penn, William. *The papers of William Penn*. Philadelphia: University of Pennsylvania Press, 1981.
+
+“Philly Flashbacks.” *Philly Flashbacks*. Accessed April 26, 2017. https://phillyflashbacks.wordpress.com/.
+
+“William Penn Describes the Lenni-Lenape Indians of Pennsylvania · HERB: Resources for Teachers.” Accessed April 26, 2017. https://herb.ashp.cuny.edu/items/show/1465.
+
+William Penn. *His own account of The Lenni Lenape or Delaware Indians 1683*, edited by Albert Cook Myers. Delaware County, Pennsylvania: Albert Cook Myers Moylan, 1937.
+
