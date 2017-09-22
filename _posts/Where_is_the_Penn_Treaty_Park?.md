@@ -22,7 +22,56 @@ Today, the park is a lush, rolling green space in gentrifying space of Fishtown.
 
 Kirchner, Andrew, and Ernest Lorenz. *Boy Scouts in Indian Roles*. 1932. *Temple University Libraries*, Philadelphia. Temple University Libraries. Web. 24 Apr. 2017.
 
-Milano, Kenneth W. *The History of Penn Treaty Park*. Charleston, SC: History, 2009. Print. 
+Milano, Kenneth W. *The History of Penn Treaty Park*. Charleston, SC: History, 2009. Print.
 
+Newman, Andrew. "Treaty of Shackamaxon." *Encyclopedia of Greater Philadelphia*. Rutgers University, 2013. Web. 24 Apr. 2017.
 
+Newman, A. *On Records: Delaware Indians, Colonists, and the Media of History and Memory*. Lincoln: University of Nebraska Press, 2012. Project MUSE,
 
+Posternack, Whitney. "Dedicated to Preserving a Waterfront Treasure." *Friends of Penn Treaty Park*. N.p., 2017. Web. 20 Apr. 2017.
+
+Rigal, Laura. “Review.” *The Pennsylvania Magazine of History and Biography*, vol. 134, no. 1, 2010, pp. 97–100., www.jstor.org/stable/10.5215/pennmaghistbio.134.1.97b.
+
+Zagofsky, Al. "Penn's Sons Twice Stole Pennsylvania." *Penn's Sons Twice Stole Pennsylvania | Times News Online*. Times News, 8 June 2013. Web. 24 Apr. 2017.
+
+The Eastern Delaware Nations Is Composed of Twelve Tribes, Eastern Delaware Nations, Inc. History.” N.p., n.d. Web. 24 Apr. 2017.
+
+"Penn Treaty Park." *Digital Collections*. Temple University Library, 2016. Web. 24 Apr. 2017.
+
+*“The Improved Order of Red Men.” N.p., n.d. Web. 24 Apr. 2017.*
+
+*Vaughn School Pupils at Penn Treaty*. 1932. Temple University Library, Philadelphia. *Digital Collections*. By George D. McDowell. Web. 24 Apr. 2017.
+
+"Delaware Power Station." *Delaware Power Station*. Abandoned But Not Forgotten, 2017. Web. 24 Apr. 2017.
+
+“PhillyHistory - Search.” N.p., n.d. Web. 19 Apr. 2017.
+
+“Gallery” from website of The Penn Treaty Museum
+
+"Penn Treaty Museum Penn Treaty Museum." *Penn Treaty Museum*. The Penn Treaty Museum, 2017. Web. 20 Apr. 2017.
+
+“Penn Treaty Elm | Haverford College.” N.p., n.d. Web. 24 Apr. 2017.
+
+“Friends of Penn Treaty Park — Dedicated to Preserving a Waterfront Treasure.” N.p., n.d. Web. 25 Apr. 2017.
+
+<p align = "center"><b>Artifacts</b></p>
+
+Statue of William Penn - Model or photograph
+
+The Statue of William Penn sits at the front of the park. The foundation of the statue is a circular shape with half the statue consisting of plaques and the other half consisting of the foundation for the statue of Penn.  Penn is holding the Penn Treaty in both of his hands while overlooking the park.  Therefore, this puts great emphasis William Penn’s legacy, especially his involvement in the formation of the Penn Treaty.  While the merits of representation and mutual exchange of the treaty are certainly debatable, the statue of William Penn is certainly an important sightline for Penn Treaty Park.
+
+Bob Haozous Sculpture - Model or photograph (from Milano’s book)
+
+The Bob Haozous sculpture is one of the most contested pieces of art work associated with Penn Treaty Park. It is made of steel double plates that stand parallel with one another. The plates contain cut out shapes of clouds and airplanes and on one side there is also a depiction of an image from the Wampum belt given to William Penn during the Penn Treaty (p.151). Rather than being a structure that sufficiently honors the Lenape people, it stays in the background, literally sitting outside the park. The sculpture is often disregarded due to its aesthetic and  its failure to adequately represent the voices of the Lenape people. 
+
+Penn Treaty Monument - Model or photograph (from Milano’s book)
+
+The Penn Treaty monument stands as a historical marker of the treaty that took place between the Lenni-Lenape people and William Penn. Originally, the obelisk was placed in the Northwest corner of the land where the Elm Tree once stood. It was then, to the dismay of Fishtown residents, moved again because of park renovation. It is “about five feet nine inches tall” (p. 136) and surrounded by an iron fence. Behind the obelisk there is a stone wall. The monument that exists today has an aluminum plaque which describes the Treaty’s goal of friendship. However, the changing location of the obelisk sparks discussion today over the authenticity of the treaty itself.
+
+Penn Treaty Reenactment - Photographs (from Milano’s book and Connors’ collection)
+
+This photo taken in 1932 depicts two children taking part in a reenactment of the Penn Treaty at Penn Treaty Park. The description of the photo reads “Members of the Omaha Troop of Stetson Center impersonating an Indian chief and a squaw with her papoose.” Reenactments of the treaty have taken place for decades at Penn Treaty Park. During Pennsylvania’s tercentenary celebration Native Americans dressed in full regalia joined costumed Fishtown community members for a reenactment with an authentic replica of the wampum belt. Another notable reenactment took place at the official rededication of Penn Treaty Park on November 1st, 1987.
+
+Delaware Power Station - Photographs and/or rubble
+
+Built in 1917, the Philadelphia Electric Company’s Delaware Power Station looms over Penn Treaty Park. The massive power plant covering 223,000-square-feet and 16 acres of property was in operation until 2004 when its final two turbines were shut off and has since remained abandoned. On August 10th, 2016 the plant was designated historic on the National Register of Historic Places and added to the Philadelphia Register of Historic Places two days later. The dilapidated building that is visibly weathered, rusting, and covered in graffiti stands in direct contrast to neighboring green space of Penn Treaty Park.
