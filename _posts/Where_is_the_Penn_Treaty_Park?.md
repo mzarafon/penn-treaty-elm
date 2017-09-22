@@ -16,5 +16,13 @@ According to long-time Fishtown resident and historian Kenneth Milano, residents
 
 The park space has made gestures to include American Indians in its programming, as Shackamaxon was known as a symbolic meeting place for American Indians in the area long before colonization. In the 1980s, Native American people participated in Penn Treaty reenactments, and in 1982, The United American Indians of the Delaware Valley hosted a three-day powwow at the park. In 1989 Chief Jake Swamp of the Mohawk tribe symbolically planted a white pine tree, commemorating Chief Tamanend and the forgotten Native American concepts that helped shape the United States’ early formation. In 1991, Native artist Bob Haozous designed a sculpture depicting the image of Penn and Tamanend from the original wampum belt exchanged in 1682, which he juxtaposed with symbols of modernity and pollution. Even this gesture of Native representation in modern art and in the Park was met with resistance from locals, and so Haozous’ sculpture stands in a median in middle of the street bordering the park. Like the Native people pushed to the edge of the Penn Treaty narrative, it occupies a space just outside of Penn Treaty Park. 
 
-Today, the park is a lush, rolling green space in gentrifying space of Fishtown. The Friends of the Penn Treaty Park, founded in 2005, organize clean-ups and refurbishments and other groups use the park for organized events. The Friends of the Penn Treaty Park’s mission is to preserve and enhance the beauty and usefulness of historic Penn Treaty Park. 
+Today, the park is a lush, rolling green space in gentrifying space of Fishtown. The Friends of the Penn Treaty Park, founded in 2005, organize clean-ups and refurbishments and other groups use the park for organized events. The Friends of the Penn Treaty Park’s mission is to preserve and enhance the beauty and usefulness of historic Penn Treaty Park.
+
+<p align = "center"><b>Bibliography</b></p>
+
+Kirchner, Andrew, and Ernest Lorenz. *Boy Scouts in Indian Roles*. 1932. *Temple University Libraries*, Philadelphia. Temple University Libraries. Web. 24 Apr. 2017.
+
+Milano, Kenneth W. *The History of Penn Treaty Park*. Charleston, SC: History, 2009. Print. 
+
+
 
