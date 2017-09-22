@@ -6,7 +6,7 @@ author: "unknown"
 
 In legend, Penn and the Lenape agreed to live in love forever. In less than one generation the Lenape were cheated out of land. The tale overshadows Pennsylvania’s true history.
 
-<p align = "center"> **The Legend of Penn’s Treaty with the Lenape** </p>
+<p align = "center"><b> The Legend of Penn’s Treaty with the Lenape</b> </p>
 
 Penn’s treaty with the Lenni Lenape is a traditional American tale about the founding of Pennsylvania. As the tale goes, in 1682, under the great elm of Shackamaxon, Penn promised to live with the natives in “openness and love” and as “one flesh and one blood” to which Tamanend replied, “We will live in love with William Penn and his children, while the sun, moon, and stars endure.” Within one generation, Penn’s own sons cheated the Lenni-Lenape out of thousands of miles of land, but the legend continued to grow, popularized by paintings such as Benjamin West’s *William Penn’s Treaty with the Indians*. Today, the treaty is remembered as a symbol of peace and love.
 
