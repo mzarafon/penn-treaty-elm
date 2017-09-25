@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Historical Essary"
+title: "Historical Essay"
 author: unknown
 ---
 
