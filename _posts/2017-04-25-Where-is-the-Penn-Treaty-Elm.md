@@ -24,29 +24,29 @@ The Penn Treaty Elm fell during a storm on March 5th, 1810. People rushed to gat
 
 With no actual record of the treaty taking place, the obsession of the tree and disagreement about its location have lead to its notoriety. This is because in many ways, the Penn Treaty Elm has become the closest thing to a history record. The tree not only stands in place for the treaty as its only witness, but is also a testament to the treaty and everything it represents in terms of peace, brotherhood, and Quaker values.
 
-<p align = "center"><ins><b>Bibliography (Penn Treaty Elm)</ins></b></p>
+<p align = "center"><ins><b>Bibliography (Penn Treaty Elm)</b></ins></p>
 
 "Reuniting Two Treaty Elm Vases." *Winterthur Museum & Library Blog*. N.p., 23 Aug. 2016. Web. 28 Apr. 2017.
 
- ""The limb in my Fathers arms:" The Environmental and Material Creation of a Treaty Elm Relic - Common-placeCommon-place: The Journal of early American Life." *Common-place*. N.p., n.d. Web. 28 Apr. 2017.
+""The limb in my Fathers arms:" The Environmental and Material Creation of a Treaty Elm Relic - Common-placeCommon-place: The Journal of early American Life." *Common-place*. N.p., n.d. Web. 28 Apr. 2017.
  
- *The State Museum of Pennsylvania*. N.p., n.d. Web. 28 Apr. 2017.
+*The State Museum of Pennsylvania*. N.p., n.d. Web. 28 Apr. 2017.
  
- Milano, Kenneth W. *The history of Penn Treaty Park*. Charleston, SC: History Press, 2009. Print.
+Milano, Kenneth W. *The history of Penn Treaty Park*. Charleston, SC: History Press, 2009. Print.
  
- Milano, Kenneth W. "Kenneth W. Milano." *Philadelphia Genealogy Research Services Kenneth W. Milano*. N.p., n.d. Web. 28 Apr. 2017.
+Milano, Kenneth W. "Kenneth W. Milano." *Philadelphia Genealogy Research Services Kenneth W. Milano*. N.p., n.d. Web. 28 Apr. 2017.
  
- "Shackamaxon." *Wikipedia*. Wikimedia Foundation, 23 Mar. 2017. Web. 28 Apr. 2017.
+"Shackamaxon." *Wikipedia*. Wikimedia Foundation, 23 Mar. 2017. Web. 28 Apr. 2017.
  
- "Haverford College." *Penn Treaty Elm*. N.p., n.d. Web. 28 Apr. 2017.
+"Haverford College." *Penn Treaty Elm*. N.p., n.d. Web. 28 Apr. 2017.
  
- "PAFA - Pennsylvania Academy of the Fine Arts." *Penn's Treaty with the Indians | PAFA - Pennsylvania Academy of the Fine Arts*. N.p., n.d. Web. 28 Apr. 2017.
+"PAFA - Pennsylvania Academy of the Fine Arts." *Penn's Treaty with the Indians | PAFA - Pennsylvania Academy of the Fine Arts*. N.p., n.d. Web. 28 Apr. 2017.
  
- *Penn Treaty Museum*. N.p., n.d. Web. 28 Apr. 2017. <http://www.penntreatymuseum.org/treaty.php>.
+*Penn Treaty Museum*. N.p., n.d. Web. 28 Apr. 2017. <http://www.penntreatymuseum.org/treaty.php>.
  
- "Reuniting Two Treaty Elm Vases." *Winterthur Museum & Library Blog*. N.p., 23 Aug. 2016. Web. 28 Apr. 2017.
+"Reuniting Two Treaty Elm Vases." *Winterthur Museum & Library Blog*. N.p., 23 Aug. 2016. Web. 28 Apr. 2017.
  
- <p align = "center"><ins>Artifacts</ins></p>
+<p align = "center"><ins>Artifacts</ins></p>
  
  **Treaty Elm Vases**
  
@@ -67,5 +67,3 @@ This chair is constructed from the Treaty Elm and is called the “Treaty Elm Ch
 **Native American depiction of the elm**
 
 As hard as we looked, we could not find any representations of the Penn Treaty Elm by the Lenape Native Americans. While this may be due to the more oral nature of Lenape history, it seems that while there are abundant depictions of the elm by Pennsylvanian settlers, there are not any by the Lenape. This represents who the Penn Treaty Elm is important to and who it is not important to. Taking into account the history of William Penn’s son commissioning West to paint the scene of the Penn Treaty, it is easy to understand why the focus over the tree and the treaty as opposed to what happened after with the walking purchase and the pushing of the Lenape out of their lands shows which part of history people are willing to engage with. With a discomfort of the destructive history of Native peoples in America, a focus on the original treaty that expresses peace and paints Penn and the settlers in a good light makes sense. It also is logical that Native peoples would be less interested in a tree and more so in preserving their culture, dealing with trauma and rebuilding destroyed communities. 
-
-
