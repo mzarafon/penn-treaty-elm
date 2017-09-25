@@ -32,7 +32,7 @@ Posternack, Whitney. "Dedicated to Preserving a Waterfront Treasure." *Friends o
 
 Rigal, Laura. “Review.” *The Pennsylvania Magazine of History and Biography*, vol. 134, no. 1, 2010, pp. 97–100., www.jstor.org/stable/10.5215/pennmaghistbio.134.1.97b.
 
-Zagofsky, Al. "Penn's Sons Twice Stole Pennsylvania." *Penn's Sons Twice Stole Pennsylvania | Times News Online*. Times News, 8 June 2013. Web. 24 Apr. 2017.
+Zagofsky, Al. "Penn's Sons Twice Stole Pennsylvania." *Penn's Sons Twice Stole Pennsylvania. Times News Online*. Times News, 8 June 2013. Web. 24 Apr. 2017.
 
 The Eastern Delaware Nations Is Composed of Twelve Tribes, Eastern Delaware Nations, Inc. History.” N.p., n.d. Web. 24 Apr. 2017.
 
