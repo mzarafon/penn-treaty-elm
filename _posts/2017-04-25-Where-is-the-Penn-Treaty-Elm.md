@@ -40,7 +40,7 @@ Milano, Kenneth W. "Kenneth W. Milano." *Philadelphia Genealogy Research Service
  
 "Haverford College." *Penn Treaty Elm*. N.p., n.d. Web. 28 Apr. 2017.
  
-"PAFA - Pennsylvania Academy of the Fine Arts." *Penn's Treaty with the Indians | PAFA - Pennsylvania Academy of the Fine Arts*. N.p., n.d. Web. 28 Apr. 2017.
+"PAFA - Pennsylvania Academy of the Fine Arts." *Penn's Treaty with the Indians. PAFA - Pennsylvania Academy of the Fine Arts*. N.p., n.d. Web. 28 Apr. 2017.
  
 *Penn Treaty Museum*. N.p., n.d. Web. 28 Apr. 2017. <http://www.penntreatymuseum.org/treaty.php>.
  
