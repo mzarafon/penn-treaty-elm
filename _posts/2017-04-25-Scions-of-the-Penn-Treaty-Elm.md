@@ -43,3 +43,27 @@ Peattie, Donald Culross. *A Natural History of Trees of Eastern and Central Nort
 Van Artsdalen, Martha J. "Penn Treaty Elm." *Haverford College Arboretum*. Charleston, SC: Arcadia, 2016. 119-26. *Google Books*. Web. 20 Apr. 2017.
 
 Van Artsdalen, Martha. "Trees Hold Our History." Blog post. *Tree Campus USA*. 28 Mar. 2014. Web. 20 Apr. 2017. http://tree-campus-usa.tumblr.com/post/80977702966/trees-hold-our-history. 
+
+**Artifacts**
+
+*Scion, in the Bark* [physical potted scion]
+
+This scion is a descendant of the Penn Treaty Elm’s great grandchild, located to this day behind Barclay Hall on Haverford College’s campus. With a circumference of 12 inches and standing over 7 feet tall, this scion is far from the gigantic proportions of its ancestor. We hope that one day this scion will reach and even surpass the 10 foot circumference and 90 foot height of the once great Penn Treaty Elm. Of course, by then it will no longer be indoors!
+
+*Dutch Elm Disease at a Glance* [microscope that can be peered into; a slide of Dutch Elm Disease is mounted]
+
+If you take a look inside our microscope you will see an example of the fungi that lead to the fall of the great Penn Treaty Elm: Dutch Elm Disease. If you look closely, you can see the fungal structures that are characteristic of Dutch Elm Disease. It is caused by a member of the sac fungi that affects elm trees and is spread by elm bark beetles. Dutch Elm Disease has claimed the lives of over 40 million American Elm Trees and continues to be a threatening tree disease (D’Arcy).
+
+*Scion Science* [short video on how to harvest/plant a scion]
+
+In this video, Haverford College Arboretum staff demonstrate the process of harvesting and grafting a scion. Although cuttings for the firsts scions of the Penn Treaty Elm were harvested over 200 years ago, the science remains the same. As expert caretakers of the descendents of the Penn Treaty Elm, the Arboretum staff work hard to maintain a viable supply of “grandchildren” in order to continue the legacy of the original Elm. Tree science is even something you can try at home - use the methods in this video to graft a tree in your own backyard.
+
+*Where Are They Now?* [map of East Coast with locations of the scions marked]
+
+The scions may all be descended from one tree, but now they grow in all sorts of different places. From Haverford College to Penn Treaty Park to the Lenape land in New Jersey, the scions stand as representatives of their ancestor and the treaty that took place in its shade. Which scion do you live closest to? 
+
+The land on which the original Elm stood belonged to the Lenni Lenape people before any Quakers spotted its branches. Today the scions stand on land owned not by the Lenape people but by Pennsylvanians who once promised to share the land peacefully.
+
+*Historical Letter and Photo of the Founders Green Elm*
+
+This photograph of the Founders Green Elm, grandchild of the Penn Treaty Elm, was taken in 1949. A letter sent to the chairman of the Friends Historical Association on October 23, 1953 tells us that the tree trunk had a diameter of 50 inches and stood 4 feet 2 inches tall. Its spread of branches spanned approximately 100 feet. Unfortunately, it too succumbed to Dutch Elm Disease and had to be removed. You can see the similarities in structure between this elm and the elm that still stands on Barclay Beach. Notice Founders Great Hall in the background!
