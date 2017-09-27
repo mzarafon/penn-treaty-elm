@@ -64,6 +64,8 @@ The scions may all be descended from one tree, but now they grow in all sorts of
 
 The land on which the original Elm stood belonged to the Lenni Lenape people before any Quakers spotted its branches. Today the scions stand on land owned not by the Lenape people but by Pennsylvanians who once promised to share the land peacefully.
 
+![placeholder](https://placehold.it/400x200 "Medium example image")
+
 *Historical Letter and Photo of the Founders Green Elm*
 
 This photograph of the Founders Green Elm, grandchild of the Penn Treaty Elm, was taken in 1949. A letter sent to the chairman of the Friends Historical Association on October 23, 1953 tells us that the tree trunk had a diameter of 50 inches and stood 4 feet 2 inches tall. Its spread of branches spanned approximately 100 feet. Unfortunately, it too succumbed to Dutch Elm Disease and had to be removed. You can see the similarities in structure between this elm and the elm that still stands on Barclay Beach. Notice Founders Great Hall in the background!
