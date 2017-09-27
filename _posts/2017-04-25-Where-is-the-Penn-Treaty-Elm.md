@@ -58,13 +58,17 @@ Milano, Kenneth W. "Kenneth W. Milano." *Philadelphia Genealogy Research Service
 
 ![Treaty Elm Vases]({{https://museumblog.winterthur.org/files/2016/08/urns}}/400x200/image.png)
 
-![placeholder](https://museumblog.winterthur.org/files/2016/08/urns-.jpg/400x200)
+![Treaty Elm Vases](https://museumblog.winterthur.org/files/2016/08/urns-.jpg/400x200)
+
+![placeholder](https://placehold.it/400x200 "Medium example image")
  
  **Treaty Elm Vases**
  
 These two treaty elm vases were carved by George Magraph out of what’s said to be wood from the Treaty Elm. The vases both have a carving of William Penn, modeled after a popular likeness circulated by Sylvanus Bevan, and an explanatory text stating the elm’s significance as the location of “Penn’s treaty with the Indians.” They were both carved in the 1810s, shortly after the elm had fallen. The vases demonstrate both the importance of the elm and its perception as a symbol of William Penn’s mission of peace.
 
 ![placeholder](https://placehold.it/400x200 "Medium example image")
+
+![Bust of William Penn](http://common-place.org/wp-content/uploads/2016/12/17.1-Igoe-1.jpg/400x200)
  
  **Bust of William Penn by James Leconey**
  
