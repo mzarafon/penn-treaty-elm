@@ -57,6 +57,8 @@ Milano, Kenneth W. "Kenneth W. Milano." *Philadelphia Genealogy Research Service
 ![Treaty Elm Vases]({{https://museumblog.winterthur.org/files/2016/08/urns-.jpg}}/400x200/image.png)
 
 ![Treaty Elm Vases]({{https://museumblog.winterthur.org/files/2016/08/urns}}/400x200/image.png)
+
+![placeholder](https://museumblog.winterthur.org/files/2016/08/urns-.jpg/400x200)
  
  **Treaty Elm Vases**
  
