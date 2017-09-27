@@ -80,6 +80,8 @@ The log in the Haverford Special Collections Library is most likely not part of 
 
 ![placeholder](https://placehold.it/400x200 "Medium example image")
 
+![Treaty Elm Chair](http://statemuseumpa.org/wp-content/uploads/2015/09/cdl81-109-Treaty-Elm-Chair.jpg/400x200)
+
 **The Treaty Elm Chair: The seat of Pennsylvania history**
 
 This chair is constructed from the Treaty Elm and is called the “Treaty Elm Chair”. The chair has a paper image applied to the center of the top rail depicting Penn’s treaty with the Lenape people. The chair shows the larger than life symbolism of the tree after its death. The elm became synonymous with the treaty and many of the objects carved from its branches are depictions of or related to the treaty, such as the depiction of the treaty on this chair.
