@@ -47,10 +47,14 @@ Milano, Kenneth W. "Kenneth W. Milano." *Philadelphia Genealogy Research Service
 "Reuniting Two Treaty Elm Vases." *Winterthur Museum & Library Blog*. N.p., 23 Aug. 2016. Web. 28 Apr. 2017.
  
 <p align = "center"><ins>Artifacts</ins></p>
+
+![placeholder](https://placehold.it/400x200 "Medium example image")
  
  **Treaty Elm Vases**
  
 These two treaty elm vases were carved by George Magraph out of what’s said to be wood from the Treaty Elm. The vases both have a carving of William Penn, modeled after a popular likeness circulated by Sylvanus Bevan, and an explanatory text stating the elm’s significance as the location of “Penn’s treaty with the Indians.” They were both carved in the 1810s, shortly after the elm had fallen. The vases demonstrate both the importance of the elm and its perception as a symbol of William Penn’s mission of peace.
+
+![placeholder](https://placehold.it/400x200 "Medium example image")
  
  **Bust of William Penn by James Leconey**
  
@@ -59,6 +63,8 @@ This bust of William Penn, carved by James Leconey in 1812 out of a branch of th
 **Log in the Haverford College Library in Special Collections**
 
 The log in the Haverford Special Collections Library is most likely not part of the actual Treaty Elm or an elm at all, but the fact that someone made the claim that it was, shows significance. The almost mythical nature of the elm and the various items, some authentic and some not, are just as important as the physical elm. Because so much of the story surrounding the treaty is unconfirmed, including the elm’s original location, the unconfirmed piece of the elm serves as a symbol of that unconfirmed, questionable, and mythological history.
+
+![placeholder](https://placehold.it/400x200 "Medium example image")
 
 **The Treaty Elm Chair: The seat of Pennsylvania history**
 
