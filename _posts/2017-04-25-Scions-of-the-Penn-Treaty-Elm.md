@@ -66,6 +66,8 @@ The land on which the original Elm stood belonged to the Lenni Lenape people bef
 
 ![placeholder](https://placehold.it/400x200 "Medium example image")
 
+![Historical Letter](http://image for scions post.png/400x200)
+
 *Historical Letter and Photo of the Founders Green Elm*
 
 This photograph of the Founders Green Elm, grandchild of the Penn Treaty Elm, was taken in 1949. A letter sent to the chairman of the Friends Historical Association on October 23, 1953 tells us that the tree trunk had a diameter of 50 inches and stood 4 feet 2 inches tall. Its spread of branches spanned approximately 100 feet. Unfortunately, it too succumbed to Dutch Elm Disease and had to be removed. You can see the similarities in structure between this elm and the elm that still stands on Barclay Beach. Notice Founders Great Hall in the background!
