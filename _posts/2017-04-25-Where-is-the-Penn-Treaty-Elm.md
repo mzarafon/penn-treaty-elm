@@ -64,9 +64,7 @@ This bust of William Penn, carved by James Leconey in 1812 out of a branch of th
 
 The log in the Haverford Special Collections Library is most likely not part of the actual Treaty Elm or an elm at all, but the fact that someone made the claim that it was, shows significance. The almost mythical nature of the elm and the various items, some authentic and some not, are just as important as the physical elm. Because so much of the story surrounding the treaty is unconfirmed, including the elm’s original location, the unconfirmed piece of the elm serves as a symbol of that unconfirmed, questionable, and mythological history.
 
-![placeholder](https://placehold.it/400x200 "Medium example image")
-
-![Treaty Elm Chair](http://statemuseumpa.org/wp-content/uploads/2015/09/cdl81-109-Treaty-Elm-Chair.jpg/400x200)
+![Treaty Elm Chair](https://github.com/mzarafon/penn-treaty-elm/blob/gh-pages/Where-is-the-Penn-Treaty-Elm-post-The-Treaty-Elm-Chair.jpg)
 
 **The Treaty Elm Chair: The seat of Pennsylvania history**
 
