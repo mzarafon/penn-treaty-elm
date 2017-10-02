@@ -60,26 +60,26 @@ While this peace and friendship is what is most commonly remembered in American 
 
 “The Wampum Belt is the physical manifestation of the Penn Treaty, and exemplifies the exchange of promises that William Penn and the Lenape people made.  Supposedly two of the belts were created: one was given to Penn, and the other was kept by the Lenape.  Depicted on the belt are Penn and Chief Tamanend holding hands to represent the amiability of the treaty.  However, it is said that in 1782, Chief Killbuck lost the belt while fleeing European settlers.  This symbolizes how the Treaty was not kept on Penn’s end, as the Lenape today are no longer located in the Delaware region.”
 
-![placeholder](https://placehold.it/400x200 "Medium example image")
+![Wampum Belt](https://github.com/mzarafon/penn-treaty-elm/blob/gh-pages/Lenape-Summary-Post-wampum-belt.jpg)
 
 - Piece of Original Tree
 
 “The Penn Treaty Elm, locally known as the Great Elm, represents the physical location where the Treaty was made.  Although many revere the Great Elm as a place where an important friendship was created, the significance of elm trees is folklore and mythology suggests otherwise for the Lenape people and other Native-Americans who have come in contact with European settlers.  In British and Scottish mythology, the elm has connections with the Underworld.  The signing of the Treaty under the Great Elm could then be read as the Lenape tribe’s demise, as William Penn’s descendants failed to honor the Treaty, and the Lenape were displaced from their home.”
 
-- Painting of Penn Treaty signing
+- Painting of Penn Treaty Signing
 
 “Finished in 1771-72, *The Treaty of Penn with the Indians* by Benjamin West is one of the first examples of the treaty in an artistic/visual representation. It is from this painting that many of the other artistic interpretations of the treaty were inspired by. The painting gained great fame and notoriety as well leading to its depiction being taken closer to fact than artistic representation. Thus, as time has progressed, the painting has come to not only represent the actual event of the treaty but also the treaty itself.” 
 
-![placeholder](https://placehold.it/400x200 "Medium example image")
+![Painting of Penny Treaty Signing](https://github.com/mzarafon/penn-treaty-elm/blob/gh-pages/Lenape-Summary-Post-Painting-of-Penn-Treaty-Signing.jpg)
 
 - Obelisk in Penn Treaty Park
 
 “Erected in 1827 by the Historical Society of Pennsylvania to commemorate the site on which the Great Elm stood, the obelisk presents a modern physical representation of where the treaty possibly lies. On the sides of the monument, inscriptions read: ‘Treaty ground of William Penn, and the Indian Nations, 1682, Unbroken faith; William Penn, Born 1644, Died 1713; Pennsylvania, Founded, 1681, by Deeds of Peace; Placed by the Penn Society, A.D. 1827, to mark the site of the Great Elm Tree.’ While marking the place of the treaty, the obelisk acts a physical reminder of how the treaty not only resides within the minds of the people but also within the land it formerly governed.”
 
-![placeholder](https://placehold.it/400x200 "Medium example image")
+![Obelisk in Penn Treaty Park](https://github.com/mzarafon/penn-treaty-elm/blob/gh-pages/Lenape-Summary-Post-Obelisk-in-Penn-Treaty-Park.jpg)
 
 - John Hancock Life Insurance brochure
 
 “This brochure, produced by the John Hancock Life Insurance company and in the possession of the Penn Treaty Museum, highlights the mythical nature of the treaty. Within the public sphere, the treaty has come to imply a sense of trust and genuineness; however, businesses have used this to their advantage whether truthful or not. In this case, the image of the treaty imbues the company with a sense of dependability and reliability. However, firms, such as the Penn Treaty Insurance company, have tarnished the legacy of the treaty through illegal and fraudulent actions.”
 
-![placeholder](https://placehold.it/400x200 "Medium example image")
+![John Hancock Life Insurance Brochure](https://github.com/mzarafon/penn-treaty-elm/blob/gh-pages/Lenape-Summary-Post-John-Hancock-Life-Insurance-Brochure.jpg)
