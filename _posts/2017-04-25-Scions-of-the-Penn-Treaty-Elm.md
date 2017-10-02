@@ -66,7 +66,7 @@ The land on which the original Elm stood belonged to the Lenni Lenape people bef
 
 ![placeholder](https://placehold.it/400x200 "Medium example image")
 
-![Historical Letter]()
+![Historical Letter](https://github.com/mzarafon/penn-treaty-elm/blob/gh-pages/Image-for-Scions-Post.png)
 
 *Historical Letter and Photo of the Founders Green Elm*
 
