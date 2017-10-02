@@ -64,8 +64,6 @@ The scions may all be descended from one tree, but now they grow in all sorts of
 
 The land on which the original Elm stood belonged to the Lenni Lenape people before any Quakers spotted its branches. Today the scions stand on land owned not by the Lenape people but by Pennsylvanians who once promised to share the land peacefully.
 
-![placeholder](https://placehold.it/400x200 "Medium example image")
-
 ![Historical Letter](https://github.com/mzarafon/penn-treaty-elm/blob/gh-pages/Image-for-Scions-Post.png)
 
 *Historical Letter and Photo of the Founders Green Elm*
