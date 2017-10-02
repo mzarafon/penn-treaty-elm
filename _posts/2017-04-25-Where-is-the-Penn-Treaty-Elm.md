@@ -48,9 +48,7 @@ Milano, Kenneth W. "Kenneth W. Milano." *Philadelphia Genealogy Research Service
  
 <p align = "center"><ins>Artifacts</ins></p>
 
-![Treaty Elm Vases](Where-is-the-Penn-Treaty-Elm-post-Treaty-Elm-Vases.jpg/400x200)
-
-![Treaty Elm Vases](https://github.com/mzarafon/penn-treaty-elm/blob/gh-pages/Where-is-the-Penn-Treaty-Elm-post-Treaty-Elm-Vases.jpg/400x200)
+![Treaty Elm Vases](https://github.com/mzarafon/penn-treaty-elm/blob/gh-pages/Where-is-the-Penn-Treaty-Elm-post-Treaty-Elm-Vases.jpg)
 
 ![Treaty Elm Vases](https://museumblog.winterthur.org/files/2016/08/urns-.jpg){:class="img-responsive"}
 
