@@ -49,20 +49,6 @@ Milano, Kenneth W. "Kenneth W. Milano." *Philadelphia Genealogy Research Service
 <p align = "center"><ins>Artifacts</ins></p>
 
 ![Treaty Elm Vases](https://github.com/mzarafon/penn-treaty-elm/blob/gh-pages/Where-is-the-Penn-Treaty-Elm-post-Treaty-Elm-Vases.jpg)
-
-![Treaty Elm Vases](https://museumblog.winterthur.org/files/2016/08/urns-.jpg){:class="img-responsive"}
-
-![Treaty Elm Vases](https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwjKlsHO0cXWAhVBqlQKHQ4UDAEQjRwIBw&url=http%3A%2F%2Fmuseumblog.winterthur.org%2F2016%2F08%2F23%2Freuniting-two-treaty-elm-vases%2F&psig=AFQjCNFXX6rrkccBpdl-JP8cG1TTnKEiXw&ust=1506611035270348){:class="img-responsive"}
-
-![Treaty Elm Vases]({{https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwjKlsHO0cXWAhVBqlQKHQ4UDAEQjRwIBw&url=http%3A%2F%2Fmuseumblog.winterthur.org%2F2016%2F08%2F23%2Freuniting-two-treaty-elm-vases%2F&psig=AFQjCNFXX6rrkccBpdl-JP8cG1TTnKEiXw&ust=1506611035270348}}/400x200/image.png)
-
-![Treaty Elm Vases]({{https://museumblog.winterthur.org/files/2016/08/urns-.jpg}}/400x200/image.png)
-
-![Treaty Elm Vases]({{https://museumblog.winterthur.org/files/2016/08/urns}}/400x200/image.png)
-
-![Treaty Elm Vases](https://museumblog.winterthur.org/files/2016/08/urns-.jpg/400x200)
-
-![placeholder](https://placehold.it/400x200 "Medium example image")
  
  **Treaty Elm Vases**
  
