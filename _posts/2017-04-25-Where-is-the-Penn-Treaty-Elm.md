@@ -1,7 +1,8 @@
 ---
 layout: post
-title: "Where is the Penn Treaty Elm?"
-author: "Rebecca Fisher, Kahlil Garnes, and Ariel Censor"
+title: Where is the Penn Treaty Elm?
+author: 'Rebecca Fisher, Kahlil Garnes, and Ariel Censor'
+published: true
 ---
 
 <p align = "center"><ins>Summary Statement</ins></p>
@@ -48,11 +49,14 @@ Milano, Kenneth W. "Kenneth W. Milano." *Philadelphia Genealogy Research Service
  
 <p align = "center"><ins>Artifacts</ins></p>
 
-![Treaty Elm Vases](https://github.com/mzarafon/penn-treaty-elm/blob/gh-pages/Where-is-the-Penn-Treaty-Elm-post-Treaty-Elm-Vases.jpg)
+
  
  **Treaty Elm Vases**
  
 These two treaty elm vases were carved by George Magraph out of what’s said to be wood from the Treaty Elm. The vases both have a carving of William Penn, modeled after a popular likeness circulated by Sylvanus Bevan, and an explanatory text stating the elm’s significance as the location of “Penn’s treaty with the Indians.” They were both carved in the 1810s, shortly after the elm had fallen. The vases demonstrate both the importance of the elm and its perception as a symbol of William Penn’s mission of peace.
+
+![Where-is-the-Penn-Treaty-Elm-post-Bust-of-William-Penn.jpg]({{site.baseurl}}/_posts/Where-is-the-Penn-Treaty-Elm-post-Bust-of-William-Penn.jpg)
+
 
 ![Bust of William Penn](https://github.com/mzarafon/penn-treaty-elm/blob/gh-pages/Where-is-the-Penn-Treaty-Elm-post-Bust-of-William-Penn.jpg)
  
@@ -72,4 +76,4 @@ This chair is constructed from the Treaty Elm and is called the “Treaty Elm Ch
 
 **Native American depiction of the elm**
 
-As hard as we looked, we could not find any representations of the Penn Treaty Elm by the Lenape Native Americans. While this may be due to the more oral nature of Lenape history, it seems that while there are abundant depictions of the elm by Pennsylvanian settlers, there are not any by the Lenape. This represents who the Penn Treaty Elm is important to and who it is not important to. Taking into account the history of William Penn’s son commissioning West to paint the scene of the Penn Treaty, it is easy to understand why the focus over the tree and the treaty as opposed to what happened after with the walking purchase and the pushing of the Lenape out of their lands shows which part of history people are willing to engage with. With a discomfort of the destructive history of Native peoples in America, a focus on the original treaty that expresses peace and paints Penn and the settlers in a good light makes sense. It also is logical that Native peoples would be less interested in a tree and more so in preserving their culture, dealing with trauma and rebuilding destroyed communities. 
+As hard as we looked, we could not find any representations of the Penn Treaty Elm by the Lenape Native Americans. While this may be due to the more oral nature of Lenape history, it seems that while there are abundant depictions of the elm by Pennsylvanian settlers, there are not any by the Lenape. This represents who the Penn Treaty Elm is important to and who it is not important to. Taking into account the history of William Penn’s son commissioning West to paint the scene of the Penn Treaty, it is easy to understand why the focus over the tree and the treaty as opposed to what happened after with the walking purchase and the pushing of the Lenape out of their lands shows which part of history people are willing to engage with. With a discomfort of the destructive history of Native peoples in America, a focus on the original treaty that expresses peace and paints Penn and the settlers in a good light makes sense. It also is logical that Native peoples would be less interested in a tree and more so in preserving their culture, dealing with trauma and rebuilding destroyed communities.
