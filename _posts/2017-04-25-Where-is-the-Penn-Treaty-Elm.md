@@ -5,12 +5,6 @@ author: 'Rebecca Fisher, Kahlil Garnes, and Ariel Censor'
 published: true
 ---
 
-<p align = "center"><ins>Summary Statement</ins></p>
-
-Starting with the historical understanding of where the Penn Treaty Elm is said to have been then moving to later depictions of the tree and its folklore, and finishing where the pieces of the original Penn Treaty Elm ended up, this essay will trace the tangible and intangible presence of the tree throughout history.
-
-<p align = "center"><ins>Historical Essay</ins></p>
-
 The Penn Treaty took place in 1683 on the banks of Shackamaxon, the areas now made up of the Philadelphia neighborhoods along the Delaware River of Fishtown, Kensington, and Fort Richmond. Shackamaxon was a historical meeting place for the Lenni- Lenape Indians. The modern Penn Treaty Park is located at this historic meeting place.
 
 The primary depiction of the Penn Treaty Elm and the one that garnered the most attention was the Benjamin West painting. The painting is in neoclassical style, which has the effect of visual harmony, which translates to a historical understanding of the settlers and Lenape as living in harmony and in peace. This resulted in creating “powerful symbol of peace” that took hold on many people’s imaginations.
@@ -25,7 +19,7 @@ The Penn Treaty Elm fell during a storm on March 5th, 1810. People rushed to gat
 
 With no actual record of the treaty taking place, the obsession of the tree and disagreement about its location have lead to its notoriety. This is because in many ways, the Penn Treaty Elm has become the closest thing to a history record. The tree not only stands in place for the treaty as its only witness, but is also a testament to the treaty and everything it represents in terms of peace, brotherhood, and Quaker values.
 
-<p align = "center"><ins><b>Bibliography (Penn Treaty Elm)</b></ins></p>
+### Bibliography (Penn Treaty Elm)
 
 "Reuniting Two Treaty Elm Vases." *Winterthur Museum & Library Blog*. N.p., 23 Aug. 2016. Web. 28 Apr. 2017.
 
@@ -47,7 +41,7 @@ Milano, Kenneth W. "Kenneth W. Milano." *Philadelphia Genealogy Research Service
  
 "Reuniting Two Treaty Elm Vases." *Winterthur Museum & Library Blog*. N.p., 23 Aug. 2016. Web. 28 Apr. 2017.
  
-<p align = "center"><ins>Artifacts</ins></p>
+### Artifacts
 
 
  
