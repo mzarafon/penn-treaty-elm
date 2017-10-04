@@ -4,9 +4,7 @@ title: "Penn's Treaty with the Lenape Summary"
 author: "unknown"
 ---
 
-In legend, Penn and the Lenape agreed to live in love forever. In less than one generation the Lenape were cheated out of land. The tale overshadows Pennsylvania’s true history.
-
-<p align = "center"><b> The Legend of Penn’s Treaty with the Lenape</b> </p>
+## The Legend of Penn’s Treaty with the Lenape
 
 Penn’s treaty with the Lenni Lenape is a traditional American tale about the founding of Pennsylvania. As the tale goes, in 1682, under the great elm of Shackamaxon, Penn promised to live with the natives in “openness and love” and as “one flesh and one blood” to which Tamanend replied, “We will live in love with William Penn and his children, while the sun, moon, and stars endure.” Within one generation, Penn’s own sons cheated the Lenni-Lenape out of thousands of miles of land, but the legend continued to grow, popularized by paintings such as Benjamin West’s *William Penn’s Treaty with the Indians*. Today, the treaty is remembered as a symbol of peace and love.
 
@@ -14,7 +12,7 @@ Some scholars question the factuality of the treaty, as the legend grew largely 
 
 While this peace and friendship is what is most commonly remembered in American history, the brief era of goodwill actually ended within a generation. Known as the Walking Purchase of 1737, William Penn’s sons John and Thomas and land agent James Logan claimed to have a sale deed from 1686 for the land north of Wrightstown that a man could walk in a day and a half. Apart from the suspected forgery of the deed, the Penns and Logan also hired three trained men to run a path cleared by settlers. One man ran sixty-five miles, giving a total of 1,200 square miles, far more than the Lenape agreed to. The treaty of goodwill stood at almost 50 years before the pattern of European displacement of Natives continued. The Lenape migrated further and further west for over a hundred years, the majority eventually settling in Oklahoma. Today about 20,000 Lenape live in Oklahoma, with smaller numbers of Lenape people in southern Ontario, Wisconsin, and Delaware. 
 
-<p align = "center"><b>Bibliography</b></p>
+## Bibliography
 
 **Web**
 
@@ -54,7 +52,7 @@ While this peace and friendship is what is most commonly remembered in American 
 
 2. Pennsylvania. Lieutenant Governor (1763-1771 : Penn). "By the Honourable John Penn, Esq; Lieutenant-governor and Commander in Chief of the Province of Pennsylvania, and Counties of New-Castle, Kent and Sussex, on Delaware, a Proclamation." Letter. 2 Jan. 1764. Pennsylvania. Lieutenant Governor (1763-1771 : Penn). Philadelphia : Printed by B. Franklin, and D. Hall.,, n.d. Web. 19 Apr. 2017. <https://catalog.tricolib.brynmawr.edu/find/Record/.b3073811/Description#tabnav>.
 
-<p align = "center"><b>Objects</b></p>
+## Objects
 
 - Wampum Belt
 
