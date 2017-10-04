@@ -3,12 +3,7 @@ layout: post
 title: "Where is the Penn Treaty Park?"
 author: "Freda Coren, Shaquana Drury, Krista Federici, Josh Fried"
 ---
-
-<p align = "center"><b>Summary Statement</b></p>
-
-Penn Treaty Park is an historical and sometimes contested site for history enthusiasts, Philadelphians, and American Indians. It has been culturally significant for hundreds of years and its various stakeholders have many different visions of the space.
-
-<p align = "center"><b>Historical Essay</b></p>
+## Historical Essay
 
 Penn Treaty Park commemorates the site of William Penn’s 1682 meeting and short-lived peace agreement with Chief Tamanend of the Lenape tribe. This peace agreement was made under an enormous and Elm tree in the Lenni-Lenape site of Shackamaxon, which is now part of the North Philadelphia neighborhood of Fishtown. Despite the short period of time that the Penn family honored the treaty - in 1727 William Penn’s heirs began to sell both bought and stolen Lenape land, and in 1737 engaged in the infamous and fraudulent Walking Purchase - the treaty and the ideals it espoused live on in the Park and with its lovers.
 
@@ -18,7 +13,7 @@ The park space has made gestures to include American Indians in its programming,
 
 Today, the park is a lush, rolling green space in gentrifying space of Fishtown. The Friends of the Penn Treaty Park, founded in 2005, organize clean-ups and refurbishments and other groups use the park for organized events. The Friends of the Penn Treaty Park’s mission is to preserve and enhance the beauty and usefulness of historic Penn Treaty Park.
 
-<p align = "center"><b>Bibliography</b></p>
+## Bibliography
 
 Kirchner, Andrew, and Ernest Lorenz. *Boy Scouts in Indian Roles*. 1932. *Temple University Libraries*, Philadelphia. Temple University Libraries. Web. 24 Apr. 2017.
 
