@@ -12,11 +12,7 @@ Second, in Penn’s 1638 account of the Lenni-Lenape he describes the ceremony w
 
 Penn’s legend has overshadowed the history of Pennsylvania’s founding because it has become the history of a great man instead of a nuanced history. Not only has this limited our understanding of Penn as a complex individual with a variety of motives, but it has also excluded the Lenni-Lenape from histories of Pennsylvania. Penn’s legend is then in front of his own history and the history of the Lenape people.
 
-<ins> Summary Statement </ins> 
-
-Contrary to the idealized representations of him as a religious leader and peacemaker, William Penn was also motivated by political and territorial aspirations in his establishment and governing of Pennsylvania.
-
-<ins> Artifacts </ins>
+## Artifacts
 
 *William Penn: Quaker Hero*
 
@@ -38,7 +34,7 @@ This is the most traditional portrayal of William Penn and his interactions with
 
 There is no better visual metaphor for Penn’s overshadowing of native history than the placement of statues in Penn Treaty Park. At the entrance to the park exists a statue of William Penn majestically holding the Penn Treaty. On an island defined by Delaware Ave and Beach St exists Bob Haozous’ statue commemorating the Lenape wampum belt. The physical separation of this monument from the park is a perfect visual metaphor for both the removal of the Lenape from the original narrative of the Penn Treaty and the Lenape’s forced westward migration.
 
-<p align = "center"><b>Bibliography</b></p>
+## Bibliography
 
 Abrams, Ann Uhry. “Benjamin West’s Documentation of Colonial History: William Penn’s Treaty with the Indians.” *The Art Bulletin* 64, no. 1 (1982): 59–75. doi:10.2307/3050194.
 
