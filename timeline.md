@@ -1,7 +1,6 @@
 ---
-layout: post
+layout: default
 title: "Timeline"
-author: "Mike"
 permalink: /timeline/
 ---
 
