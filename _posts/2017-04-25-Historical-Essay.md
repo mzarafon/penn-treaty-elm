@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: "Historical Essay"
 author: unknown
 ---
@@ -16,15 +16,15 @@ Penn’s legend has overshadowed the history of Pennsylvania’s founding becaus
 
 *William Penn: Quaker Hero*
 
-One problem with William Penn’s legend as benevolent politician and settler is that it has given primacy to his role in shaping Quaker-Lenape relations. His foregrounding in historical narratives has portrayed the Lenni-Lenape as passive in the negotiations of the Penn Treaty. William Penn’s legend, and therefore his history, is thus located in front of the history of the Lenni-Lenape. This is visually represented by the illustration on the book’s cover. In the story, the name “Lenape” is never used. 
+One problem with William Penn’s legend as benevolent politician and settler is that it has given primacy to his role in shaping Quaker-Lenape relations. His foregrounding in historical narratives has portrayed the Lenni-Lenape as passive in the negotiations of the Penn Treaty. William Penn’s legend, and therefore his history, is thus located in front of the history of the Lenni-Lenape. This is visually represented by the illustration on the book’s cover. In the story, the name “Lenape” is never used.
 
 *Quaker Oats Can*
 
-Quaker Oats has capitalized on people’s perception of Penn as the ideal “quaker man” in order to sell their product. A Quaker Oats magazine from 1909 describes Penn as “the standard bearer of  the Quakers and Quaker Oats...to this day [they [can] look that honest Quaker, William Penn in the eye and say [they] have never sent a false, a misrepresented, a stale or a moldy package from [their] door”. In placing Penn on every Quaker Oats product, the company emphasizes the honest and quintessentially “Quaker” aspects of William Penn, placing his legacy at the forefront of Pennsylvania history. 
+Quaker Oats has capitalized on people’s perception of Penn as the ideal “quaker man” in order to sell their product. A Quaker Oats magazine from 1909 describes Penn as “the standard bearer of  the Quakers and Quaker Oats...to this day [they [can] look that honest Quaker, William Penn in the eye and say [they] have never sent a false, a misrepresented, a stale or a moldy package from [their] door”. In placing Penn on every Quaker Oats product, the company emphasizes the honest and quintessentially “Quaker” aspects of William Penn, placing his legacy at the forefront of Pennsylvania history.
 
 *Penn’s Description of the Lenni-Lenape*
 
-Upon first glance, it appears as though Penn’s account of the Lenni-Lenape expresses nothing but sincere praise. However, upon further analysis we see that Penn’s description of the Lenape is more of an attempt to placate Europeans’ fear of Native Americans. His descriptions are oversimplified, emphasizing that the people are simply “the most merry creatures that live, feast, and dance perpetually”. He similarly describes their features as different from the “thick lip and flat nose, [which is] so frequent with the East-Indians and Blacks…[instead he sees]... European faces among them”. His description reads more as a reassurance than a sincere account. 
+Upon first glance, it appears as though Penn’s account of the Lenni-Lenape expresses nothing but sincere praise. However, upon further analysis we see that Penn’s description of the Lenape is more of an attempt to placate Europeans’ fear of Native Americans. His descriptions are oversimplified, emphasizing that the people are simply “the most merry creatures that live, feast, and dance perpetually”. He similarly describes their features as different from the “thick lip and flat nose, [which is] so frequent with the East-Indians and Blacks…[instead he sees]... European faces among them”. His description reads more as a reassurance than a sincere account.
 
 *Print of “Penn’s Treaty with the Indians” by Benjamin West*
 
@@ -57,4 +57,3 @@ Penn, William. *The papers of William Penn*. Philadelphia: University of Pennsyl
 “William Penn Describes the Lenni-Lenape Indians of Pennsylvania · HERB: Resources for Teachers.” Accessed April 26, 2017. https://herb.ashp.cuny.edu/items/show/1465.
 
 William Penn. *His own account of The Lenni Lenape or Delaware Indians 1683*, edited by Albert Cook Myers. Delaware County, Pennsylvania: Albert Cook Myers Moylan, 1937.
-

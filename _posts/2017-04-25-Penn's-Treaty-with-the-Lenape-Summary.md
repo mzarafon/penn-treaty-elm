@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: "Penn's Treaty with the Lenape Summary"
 author: "unknown"
 ---
@@ -10,7 +10,7 @@ Penn’s treaty with the Lenni Lenape is a traditional American tale about the f
 
 Some scholars question the factuality of the treaty, as the legend grew largely out of West’s representation 90 years later. The agreement was not a written treaty, though there is evidence to suggest its existence. A Wampum belt depicting two men holding hands suggests a formal treaty between the Lenape and Penn. Now at the Philadelphia History Museum, it was supposedly given to William Penn at the time of the treaty. Andrew Newman writes that though Native Americans did not record in alphabetical writing the same way Europeans did, there is nothing inherently better or worse in the two systems. Furthermore, agreements of peace were often invoked by 18th century Native Americans, though it would suggest that Penn made a series of treaties, contrary to the “Great Treaty” tradition. Early English historians mention treaties of friendships made between Penn and the Natives, and Voltaire famously refers to the treaties between Penn and Native Americans as the only ones that have never been broken. While the treaty tradition may not be accurate, formal treaties of peace and friendship were likely exchanged between Penn and the Lenni Lenape.
 
-While this peace and friendship is what is most commonly remembered in American history, the brief era of goodwill actually ended within a generation. Known as the Walking Purchase of 1737, William Penn’s sons John and Thomas and land agent James Logan claimed to have a sale deed from 1686 for the land north of Wrightstown that a man could walk in a day and a half. Apart from the suspected forgery of the deed, the Penns and Logan also hired three trained men to run a path cleared by settlers. One man ran sixty-five miles, giving a total of 1,200 square miles, far more than the Lenape agreed to. The treaty of goodwill stood at almost 50 years before the pattern of European displacement of Natives continued. The Lenape migrated further and further west for over a hundred years, the majority eventually settling in Oklahoma. Today about 20,000 Lenape live in Oklahoma, with smaller numbers of Lenape people in southern Ontario, Wisconsin, and Delaware. 
+While this peace and friendship is what is most commonly remembered in American history, the brief era of goodwill actually ended within a generation. Known as the Walking Purchase of 1737, William Penn’s sons John and Thomas and land agent James Logan claimed to have a sale deed from 1686 for the land north of Wrightstown that a man could walk in a day and a half. Apart from the suspected forgery of the deed, the Penns and Logan also hired three trained men to run a path cleared by settlers. One man ran sixty-five miles, giving a total of 1,200 square miles, far more than the Lenape agreed to. The treaty of goodwill stood at almost 50 years before the pattern of European displacement of Natives continued. The Lenape migrated further and further west for over a hundred years, the majority eventually settling in Oklahoma. Today about 20,000 Lenape live in Oklahoma, with smaller numbers of Lenape people in southern Ontario, Wisconsin, and Delaware.
 
 ## Bibliography
 
@@ -66,7 +66,7 @@ While this peace and friendship is what is most commonly remembered in American 
 
 - Painting of Penn Treaty Signing
 
-“Finished in 1771-72, *The Treaty of Penn with the Indians* by Benjamin West is one of the first examples of the treaty in an artistic/visual representation. It is from this painting that many of the other artistic interpretations of the treaty were inspired by. The painting gained great fame and notoriety as well leading to its depiction being taken closer to fact than artistic representation. Thus, as time has progressed, the painting has come to not only represent the actual event of the treaty but also the treaty itself.” 
+“Finished in 1771-72, *The Treaty of Penn with the Indians* by Benjamin West is one of the first examples of the treaty in an artistic/visual representation. It is from this painting that many of the other artistic interpretations of the treaty were inspired by. The painting gained great fame and notoriety as well leading to its depiction being taken closer to fact than artistic representation. Thus, as time has progressed, the painting has come to not only represent the actual event of the treaty but also the treaty itself.”
 
 ![Painting of Penny Treaty Signing](https://github.com/mzarafon/penn-treaty-elm/blob/gh-pages/Lenape-Summary-Post-Painting-of-Penn-Treaty-Signing.jpg)
 

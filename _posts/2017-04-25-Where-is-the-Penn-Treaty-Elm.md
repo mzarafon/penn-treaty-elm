@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: Where is the Penn Treaty Elm?
 author: 'Rebecca Fisher, Kahlil Garnes, and Ariel Censor'
 published: true
@@ -11,7 +11,7 @@ The primary depiction of the Penn Treaty Elm and the one that garnered the most 
 
 But why would West, create a painting of a treaty that had occurred over a hundred years before? It was commissioned by Thomas Penn, William Penn’s son in 1770-1771 who wanted to highlight the history of his father’s “popular image as a man of peace” and peaceful relationship between the Lenape people and the settlers. Penn’s sons had become known for their greed and mistreatment of the Native Americans particularly because of the Walking Purchase in 1736 where Penn’s sons forced the Lenape to relocate.
 
-It wasn’t until this painting that the mythological interest in the tree was inspired. 
+It wasn’t until this painting that the mythological interest in the tree was inspired.
 
 This painting is what brought the Penn Treaty and by extension, the Penn Treaty Elm into the forefront of people’s thoughts and historical understanding America, Pennsylvania and Philadelphia. This painting inspired countless other reinterpretations of the tree in many art mediums. One reason that the scene of the Penn Treaty reached such a vast audience and was reproduced by so many was because Thomas Penn also commissioned John Boydell to create an engraving of the painting. This meant that the imagery of the Penn Treaty and the tree reached a mass media level of audience. Another turning point in the representation of the tree the John James Barralet painting titled: “A view from Philadelphia from the Great Elm Tree in Kensington 1796”. This painting had the effect of taking the “spotlight off Penn and Indians and put it upon the treaty tree itself” resulting in the tree itself to gain fame and be seen as a witness to the treaty and proof of the existence of the treaty. Additionally, the tree became imbued with all of the meaning and implications of the Penn Treaty.
 
@@ -24,38 +24,38 @@ With no actual record of the treaty taking place, the obsession of the tree and 
 "Reuniting Two Treaty Elm Vases." *Winterthur Museum & Library Blog*. N.p., 23 Aug. 2016. Web. 28 Apr. 2017.
 
 ""The limb in my Fathers arms:" The Environmental and Material Creation of a Treaty Elm Relic - Common-placeCommon-place: The Journal of early American Life." *Common-place*. N.p., n.d. Web. 28 Apr. 2017.
- 
+
 *The State Museum of Pennsylvania*. N.p., n.d. Web. 28 Apr. 2017.
- 
+
 Milano, Kenneth W. *The history of Penn Treaty Park*. Charleston, SC: History Press, 2009. Print.
- 
+
 Milano, Kenneth W. "Kenneth W. Milano." *Philadelphia Genealogy Research Services Kenneth W. Milano*. N.p., n.d. Web. 28 Apr. 2017.
- 
+
 "Shackamaxon." *Wikipedia*. Wikimedia Foundation, 23 Mar. 2017. Web. 28 Apr. 2017.
- 
+
 "Haverford College." *Penn Treaty Elm*. N.p., n.d. Web. 28 Apr. 2017.
- 
+
 "PAFA - Pennsylvania Academy of the Fine Arts." *Penn's Treaty with the Indians. PAFA - Pennsylvania Academy of the Fine Arts*. N.p., n.d. Web. 28 Apr. 2017.
- 
+
 *Penn Treaty Museum*. N.p., n.d. Web. 28 Apr. 2017. <http://www.penntreatymuseum.org/treaty.php>.
- 
+
 "Reuniting Two Treaty Elm Vases." *Winterthur Museum & Library Blog*. N.p., 23 Aug. 2016. Web. 28 Apr. 2017.
- 
+
 ### Artifacts
 
 
- 
+
  **Treaty Elm Vases**
- 
+
 These two treaty elm vases were carved by George Magraph out of what’s said to be wood from the Treaty Elm. The vases both have a carving of William Penn, modeled after a popular likeness circulated by Sylvanus Bevan, and an explanatory text stating the elm’s significance as the location of “Penn’s treaty with the Indians.” They were both carved in the 1810s, shortly after the elm had fallen. The vases demonstrate both the importance of the elm and its perception as a symbol of William Penn’s mission of peace.
 
 ![Where-is-the-Penn-Treaty-Elm-post-Bust-of-William-Penn.jpg]({{site.baseurl}}/_posts/Where-is-the-Penn-Treaty-Elm-post-Bust-of-William-Penn.jpg)
 
 
 ![Bust of William Penn](https://github.com/mzarafon/penn-treaty-elm/blob/gh-pages/Where-is-the-Penn-Treaty-Elm-post-Bust-of-William-Penn.jpg)
- 
+
  **Bust of William Penn by James Leconey**
- 
+
 This bust of William Penn, carved by James Leconey in 1812 out of a branch of the treaty elm, shows the significance of the elm not only in the artifact itself, but in the story of how it was made. A shipbuilder, Isaac Eyre, whose business was adjacent to the Treaty Elm, obtained a piece of the elm and brought it to a ship carver, James Leconey, to carve into a bust. Instead of payment, Leconey took a piece of the branch for his work. This conveys that the tree meant enough to people that it could be substituted as a form of payment.
 
 **Log in the Haverford College Library in Special Collections**

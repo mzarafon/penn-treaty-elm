@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: "Scions of the Penn Treaty Elm"
 author: "Michael Bueno, Willa Gutfreund, and Leah Jarvik"
 ---
@@ -14,7 +14,7 @@ As descendants of the Penn Treaty Elm, these scions serve many historical and me
 
 ## Bibliography
 
-D'Arcy, C. J. "Dutch Elm Disease." *APSnet*. The American Phytopathological Society, 2000. Web. 20 Apr. 2017. http://www.apsnet.org/edcenter/intropp/lessons/fungi/ascomycetes/Pages/DutchElm.aspx. 
+D'Arcy, C. J. "Dutch Elm Disease." *APSnet*. The American Phytopathological Society, 2000. Web. 20 Apr. 2017. http://www.apsnet.org/edcenter/intropp/lessons/fungi/ascomycetes/Pages/DutchElm.aspx.
 
 LeRoy, Ken. "Penn Treaty Elm." *John B. Ward & Co. Timely Tree Tips.* John B. Ward & Company, Inc., 31 Dec. 2012. Web. 20 Apr. 2017. https://issuu.com/johnbward/docs/2013.
 
@@ -34,11 +34,11 @@ Peattie, Donald Culross. *A Natural History of Trees of Eastern and Central Nort
 
 "Some History of Historic Plants." Blog post. *Growing History*. The Philadelphia Historic Pants Consortium, 28 Feb. 2008. Web. 20 Apr. 2017. https://growinghistory.wordpress.com/tag/penn-treaty-elm/.
 
-"Trees In Tamanend Park." *Friends of Tamanend Park*. Web. 20 Apr. 2017. https://www.friendsoftamanend.org/trees/. 
+"Trees In Tamanend Park." *Friends of Tamanend Park*. Web. 20 Apr. 2017. https://www.friendsoftamanend.org/trees/.
 
 Van Artsdalen, Martha J. "Penn Treaty Elm." *Haverford College Arboretum*. Charleston, SC: Arcadia, 2016. 119-26. *Google Books*. Web. 20 Apr. 2017.
 
-Van Artsdalen, Martha. "Trees Hold Our History." Blog post. *Tree Campus USA*. 28 Mar. 2014. Web. 20 Apr. 2017. http://tree-campus-usa.tumblr.com/post/80977702966/trees-hold-our-history. 
+Van Artsdalen, Martha. "Trees Hold Our History." Blog post. *Tree Campus USA*. 28 Mar. 2014. Web. 20 Apr. 2017. http://tree-campus-usa.tumblr.com/post/80977702966/trees-hold-our-history.
 
 ## Artifacts
 
@@ -56,7 +56,7 @@ In this video, Haverford College Arboretum staff demonstrate the process of harv
 
 *Where Are They Now?* [map of East Coast with locations of the scions marked]
 
-The scions may all be descended from one tree, but now they grow in all sorts of different places. From Haverford College to Penn Treaty Park to the Lenape land in New Jersey, the scions stand as representatives of their ancestor and the treaty that took place in its shade. Which scion do you live closest to? 
+The scions may all be descended from one tree, but now they grow in all sorts of different places. From Haverford College to Penn Treaty Park to the Lenape land in New Jersey, the scions stand as representatives of their ancestor and the treaty that took place in its shade. Which scion do you live closest to?
 
 The land on which the original Elm stood belonged to the Lenni Lenape people before any Quakers spotted its branches. Today the scions stand on land owned not by the Lenape people but by Pennsylvanians who once promised to share the land peacefully.
 
