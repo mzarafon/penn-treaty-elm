@@ -6,3 +6,30 @@ title: Home
 <h2>Where is the Penn Treaty Elm?</h2>
 
 <p>As scholars debate the historical legacies and origin stories of the 1682 treaty between the Lenni-Lenape and William Penn, the Treaty Tree at Shackamaxon has come to symbolize the treaty and its role in the history of Philadelphia, Pennsylvania, and the United States. Today, the Treaty Tree survives in scions throughout the area, relics created from its wood after it fell in 1810, and in Penn Treaty Park, which commemorates the event. The treaty also has come to be associated with its eventual unraveling, as well as the theft of Native lands perpetuated by the subsequent generations of colonial settlers.  This exhibition and research project explores the many potential answers to the question “Where is the Penn Treaty Elm?” as a means to reflect on the cultural memory and possible pathways linked to this foundational tree.</p>
+
+<div class="catalogue">
+  {% for post in paginator.posts %}
+    <a href="{{ post.url | prepend: site.url }}/objects" class="catalogue-item">
+      <div>
+        <h1 class="catalogue-title">{{ post.title }}</h1>
+        <div class="catalogue-line"></div>
+
+        <p>
+          {{ post.content | truncatewords: 30 | strip_html }}
+        </p>
+
+      </div>
+    </a>
+  {% endfor %}
+</div>
+
+<div class="pagination">
+  {% if paginator.previous_page %}
+    <a href="{{ paginator.previous_page_path | prepend: site.url }}/objects" class="left arrow">&#8592;</a>
+  {% endif %}
+  {% if paginator.next_page %}
+    <a href="{{ paginator.next_page_path | prepend: site.url }}/objects" class="right arrow">&#8594;</a>
+  {% endif %}
+
+  <span>{{ paginator.page }}</span>
+</div>
