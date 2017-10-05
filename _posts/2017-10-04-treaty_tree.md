@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Treaty Tree"
+title: "The Treaty tree old and young"
 ---
 ## L.C.W. The treaty tree old and young. n.p., n.d. 
 
