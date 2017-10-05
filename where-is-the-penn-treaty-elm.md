@@ -4,9 +4,7 @@ title: "Where is the Penn Treaty Elm?"
 permalink: /student-essays/elm
 ---
 
-### Where is the Penn Treaty Elm?
 #### by Rebecca Fisher, Kahlil Garnes, and Ariel Censor
-
 
 The Penn Treaty took place in 1683 on the banks of Shackamaxon, the areas now made up of the Philadelphia neighborhoods along the Delaware River of Fishtown, Kensington, and Fort Richmond. Shackamaxon was a historical meeting place for the Lenni- Lenape Indians. The modern Penn Treaty Park is located at this historic meeting place.
 
@@ -21,4 +19,3 @@ This painting is what brought the Penn Treaty and by extension, the Penn Treaty 
 The Penn Treaty Elm fell during a storm on March 5th, 1810. People rushed to gather pieces of the Penn Treaty Elm, which made into various commemorative objects, such as furniture, snuff boxes, and busts. Because the elm became synonymous with freedom and goodwill, the objects made from the elm became symbols of these ideas as well. Given as gifts, they became gestures of peace and friendship. Given the number of objects, there is often some doubt to how genuine they are in terms of being actual parts of the Penn Treaty Elm. Regardless, the fact that many claim to have parts of the tree show how important and meaningful the tree has become as a symbol.
 
 With no actual record of the treaty taking place, the obsession of the tree and disagreement about its location have lead to its notoriety. This is because in many ways, the Penn Treaty Elm has become the closest thing to a history record. The tree not only stands in place for the treaty as its only witness, but is also a testament to the treaty and everything it represents in terms of peace, brotherhood, and Quaker values.
-
