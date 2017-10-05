@@ -4,6 +4,7 @@ title: Scions of the Penn Treaty Elm
 permalink: /student-essays/scions-of-the-penn-treaty-elm/
 ---
 
+#### by Michael Bueno, Willa Gutfreund, and Leah Jarvik
 
 Scions of the legendary Penn Treaty Elm serve as a way to extend the lineage of the Ulmus americanus tree under which the alleged treaty of friendship between William Penn and Lenape Chief Tamanend took place in 1682 (“Penn Treaty Elm,” Haverford College). According to Merriam-Webster, a scion is “a detached living portion of a plant (as a bud or shoot) joined to a stock in grafting and usually supplying solely aerial parts to a graft.” One of the first scions was taken from the Elm by General Paul Oliver and replanted at his home. Other scions taken from the original elm have been planted at the University of Pennsylvania, Pennsylvania Hospital, the Westtown School and the Johnson Library in Camden, NJ.
 
