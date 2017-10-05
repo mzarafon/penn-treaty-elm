@@ -5,7 +5,7 @@ permalink: /student-essays/where-is-the-penn-treaty-elm
 ---
 
 ### Where is the Penn Treaty Elm?
-#### Rebecca Fisher, Kahlil Garnes, and Ariel Censor
+#### by Rebecca Fisher, Kahlil Garnes, and Ariel Censor
 
 
 The Penn Treaty took place in 1683 on the banks of Shackamaxon, the areas now made up of the Philadelphia neighborhoods along the Delaware River of Fishtown, Kensington, and Fort Richmond. Shackamaxon was a historical meeting place for the Lenni- Lenape Indians. The modern Penn Treaty Park is located at this historic meeting place.
