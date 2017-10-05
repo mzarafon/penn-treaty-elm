@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Legend of Penn’s Treaty with the Lenape
-permalink: /student-essays/penns-treaty-with-the-lenape/
+permalink: /student-essays/lenape/
 ---
 ### by ...
 
