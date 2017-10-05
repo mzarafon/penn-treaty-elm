@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Where is the Penn Treaty Elm?"
-permalink: /student-essays/where-is-the-penn-treaty-elm
+permalink: /student-essays/elm
 ---
 
 ### Where is the Penn Treaty Elm?
