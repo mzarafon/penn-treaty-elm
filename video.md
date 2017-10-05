@@ -1,3 +1,4 @@
 ## Video
 
-Penn Treaty Elm video embed is here
+<iframe src="https://player.vimeo.com/video/236981846" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<p><a href="https://vimeo.com/236981846">Penn Treaty Elm</a> from <a href="https://vimeo.com/hclibraries">Haverford College Libraries</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
