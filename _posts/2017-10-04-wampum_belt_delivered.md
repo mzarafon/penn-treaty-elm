@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "The Belt of Wampum Delivered..."
+title: "The Belt of Wampum Delivered"
+thumbnail: wampum-thumb.jpg
 ---
 
 ## F. Bourquin & Co. The Belt of Wampum delivered by the Indians to William Penn at the ‘Great Treaty’ under the Elm Tree at Shackamaxon in 1682. n.d. 
