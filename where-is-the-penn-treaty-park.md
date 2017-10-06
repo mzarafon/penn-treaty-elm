@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Where is the Penn Treaty park?
-permalink: /student-essays/park
+permalink: /essays/park
 ---
 ### by Freda Coren, Shaquana Drury, Krista Federici, and Josh Fried 
 
