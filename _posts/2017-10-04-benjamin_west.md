@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Benjamin West"
-thumbnail: west-thumb.jpg
+thumbnail: /west-thumb.jpg
 ---
 
 ## Benjamin West Benjamin West. Penn’s Treaty with the Indians. Printed by John Boydell, June 12, 1775.  
