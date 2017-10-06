@@ -2,6 +2,7 @@
 layout: post
 title: The Legend of Penn’s Treaty with the Lenape
 permalink: /essays/lenape/
+thumbnail: lenape-thumb.jpg
 ---
 #### by Hannah Chang, Jimmy Wu, Ben Forde, and Ari Kim
 
