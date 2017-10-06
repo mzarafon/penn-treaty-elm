@@ -9,6 +9,7 @@ permalink: /objects/
 <div class="catalogue">
   {% for post in site.posts %}
     <a href="{{ post.url | prepend: site.url }}" class="catalogue-item">
+      <div><img src="{{post.thumbnail | prepend: site.url }}" /></div>
       <div>
         <h1 class="catalogue-title">{{ post.title }}</h1>
         <div class="catalogue-line"></div>
