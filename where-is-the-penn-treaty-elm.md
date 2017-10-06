@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Where is the Penn Treaty Elm?"
-permalink: /student-essays/elm
+permalink: /essays/elm
 ---
 
 #### by Rebecca Fisher, Kahlil Garnes, and Ariel Censor
