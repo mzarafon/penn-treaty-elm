@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "The Delaware Nation v. Commonwealth of Pennsylvania"
+thumbnail: delaware-thumb.jpg
 ---
 
 ## The Delaware Nation v. Commonwealth of Pennsylvania. 2004.
