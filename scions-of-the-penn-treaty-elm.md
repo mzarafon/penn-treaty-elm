@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Scions of the Penn Treaty Elm
-permalink: /essays/elm/
+permalink: /essays/scions/
 ---
 
 #### by Michael Bueno, Willa Gutfreund, and Leah Jarvik
