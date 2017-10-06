@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Penn's Tree, with the City and Port of Philadelphia"
-thumbnail: port-thumb.jpg
+thumbnail: /port-thumb.jpg
 ---
 
 ## William Birch. Penn’s Tree, with the City & Port of Philadelphia. 1800.
