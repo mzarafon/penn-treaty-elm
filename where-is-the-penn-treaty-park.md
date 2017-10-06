@@ -3,7 +3,7 @@ layout: post
 title: Where is the Penn Treaty park?
 permalink: /essays/park
 ---
-### by Freda Coren, Shaquana Drury, Krista Federici, and Josh Fried 
+#### by Freda Coren, Shaquana Drury, Krista Federici, and Josh Fried 
 
 Penn Treaty Park commemorates the site of William Penn’s 1682 meeting and short-lived peace agreement with Chief Tamanend of the Lenape tribe. This peace agreement was made under an enormous and Elm tree in the Lenni-Lenape site of Shackamaxon, which is now part of the North Philadelphia neighborhood of Fishtown. Despite the short period of time that the Penn family honored the treaty - in 1727 William Penn’s heirs began to sell both bought and stolen Lenape land, and in 1737 engaged in the infamous and fraudulent Walking Purchase - the treaty and the ideals it espoused live on in the Park and with its lovers. 
 
