@@ -1,11 +1,28 @@
 ## Credits
 
-- Curated by Paul M. Farber, co-curated by Eleanor Morgan ’20, with contributions from the students of Introduction to Public History, Spring 2017 
+### Curators
+- Paul M. Farber
+- Eleanor Morgan ’20
+
+### Contributors from _Introduction to Public History_, Spring 2017 
+- Michael Bueno
+- Ariel Censor
+- Freda Coren
+- Faith Danglo
+- Shaquana Drury
+- Krista Federici
+- Rebecca Fisher
+- Colin Frederickson
+- Josh Fried
+- William Fox
+- Kahlil Garnes
+- Willa Gutfreund
+- Leah Jarvik
 
 ### Other contributors
 - Sarah Horowitz, Curator of Rare Books and Head of Special Collections
 - Bruce Bumbarger, Conservator
-- Mike Zarafonetis, Coordinator for Digital Scholarship
+- Mike Zarafonetis, Coordinator for Digital Scholarship and Services
 - Taylor Cross, Digital Scholarship Student Assistant
 
 ## Sources
