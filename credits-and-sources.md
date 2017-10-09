@@ -20,10 +20,10 @@
 - Leah Jarvik
 
 ### Other contributors
-- Sarah Horowitz, Curator of Rare Books and Head of Special Collections
 - Bruce Bumbarger, Conservator
-- Mike Zarafonetis, Coordinator for Digital Scholarship and Services
 - Taylor Cross, Digital Scholarship Student Assistant
+- Sarah Horowitz, Curator of Rare Books and Head of Special Collections
+- Mike Zarafonetis, Coordinator for Digital Scholarship and Services
 
 ## Sources
 - Igoe, Laura Turner. ["'The limb in my Fathers arms:' The Environmental and Material Creation of a Treaty Elm Relic."](http://common-place.org/book/the-limb-in-my-fathers-arms-the-environmental-and-material-creation-of-a-treaty-elm-relic/) Common-place.org. 17, no. 1 (Fall 2016). 
