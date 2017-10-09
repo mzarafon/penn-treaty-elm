@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Belt of Wampum Delivered"
+title: "The Belt of Wampum delivered by the Indians to William Penn at the ‘Great Treaty’ under the Elm Tree at Shackamaxon in 1682"
 thumbnail: /wampum-thumb.jpg
 ---
 
