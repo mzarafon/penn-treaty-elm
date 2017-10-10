@@ -1,6 +1,6 @@
 ---
 layout: post
-title Credits and Sources
+title: Credits and Sources
 permalink: /credits-and-sources/
 ---
 
