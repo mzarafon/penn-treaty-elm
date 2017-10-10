@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: Credits and Sources
 permalink: /credits-and-sources/
 ---
