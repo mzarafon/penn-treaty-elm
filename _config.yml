@@ -5,7 +5,7 @@ permalink:      /:title
 title:          The Penn Treaty Elm
 paginate:       40
 baseurl:        "/penn-treaty-elm"
-url:            "https://mzarafon.github.io/penn-treaty-elm"
+url:            "http://ds.haverford.edu/penn-treaty-elm"
 
 # Assets
 sass:
