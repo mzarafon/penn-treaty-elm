@@ -2,8 +2,9 @@
 layout: post
 title: "The Treaty tree old and young"
 thumbnail: /oldyoung-thumb.jpg
+permalink: /objects/treaty_tree/
 ---
-## L.C.W. The treaty tree old and young. n.p., n.d. 
+## L.C.W. The treaty tree old and young. n.p., n.d.
 
 ![]({{ "/old-and-young.jpg" | prepend: site.url }})
 _Cover_

@@ -2,6 +2,7 @@
 layout: post
 title: "Box of the Penn Treaty Elm"
 thumbnail: /box-thumb.jpg
+permalink: /objects/box/
 ---
 
 ## A box made of the Penn Treaty Elm.

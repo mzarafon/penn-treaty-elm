@@ -2,6 +2,7 @@
 layout: post
 title: "Benjamin West. Penn’s Treaty with the Indians. Printed by John Boydell, June 12, 1775."
 thumbnail: /west-thumb.jpg
+permalink: /objects/west/
 ---
 
 ![West]({{ "/west.jpg" | prepend: site.url }})
