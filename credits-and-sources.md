@@ -1,3 +1,9 @@
+---
+layout: post
+title Credits and Sources
+permalink: /credits-and-sources/
+---
+
 ## Credits
 
 ### Curators
