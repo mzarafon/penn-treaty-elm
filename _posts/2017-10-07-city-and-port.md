@@ -2,6 +2,7 @@
 layout: post
 title: "Penn's Tree, with the City and Port of Philadelphia"
 thumbnail: /port-thumb.jpg
+permalink: /objects/city-and-port/
 ---
 
 ![]({{ "/port.jpg" | prepend: site.url }})
