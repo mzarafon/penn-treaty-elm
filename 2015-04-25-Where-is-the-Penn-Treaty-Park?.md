@@ -2,6 +2,7 @@
 layout: default
 title: "Where is the Penn Treaty Park?"
 author: "Freda Coren, Shaquana Drury, Krista Federici, Josh Fried"
+permalink: /essays/park/
 ---
 ## Historical Essay
 
