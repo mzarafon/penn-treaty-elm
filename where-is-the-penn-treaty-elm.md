@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Where is the Penn Treaty Elm?"
-permalink: /essays/elm
+permalink: /essays/elm/
 thumbnail: elm-thumb.jpg
 ---
 
@@ -13,7 +13,7 @@ The primary depiction of the Penn Treaty Elm and the one that garnered the most 
 
 But why would West, create a painting of a treaty that had occurred over a hundred years before? It was commissioned by Thomas Penn, William Penn’s son in 1770-1771 who wanted to highlight the history of his father’s “popular image as a man of peace” and peaceful relationship between the Lenape people and the settlers. Penn’s sons had become known for their greed and mistreatment of the Native Americans particularly because of the Walking Purchase in 1736 where Penn’s sons forced the Lenape to relocate.
 
-It wasn’t until this painting that the mythological interest in the tree was inspired. 
+It wasn’t until this painting that the mythological interest in the tree was inspired.
 
 This painting is what brought the Penn Treaty and by extension, the Penn Treaty Elm into the forefront of people’s thoughts and historical understanding America, Pennsylvania and Philadelphia. This painting inspired countless other reinterpretations of the tree in many art mediums. One reason that the scene of the Penn Treaty reached such a vast audience and was reproduced by so many was because Thomas Penn also commissioned John Boydell to create an engraving of the painting. This meant that the imagery of the Penn Treaty and the tree reached a mass media level of audience. Another turning point in the representation of the tree the John James Barralet painting titled: “A view from Philadelphia from the Great Elm Tree in Kensington 1796”. This painting had the effect of taking the “spotlight off Penn and Indians and put it upon the treaty tree itself” resulting in the tree itself to gain fame and be seen as a witness to the treaty and proof of the existence of the treaty. Additionally, the tree became imbued with all of the meaning and implications of the Penn Treaty.
 
